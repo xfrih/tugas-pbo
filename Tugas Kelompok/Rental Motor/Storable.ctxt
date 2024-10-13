@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Storable
+comment1.params=item\ jumlah
+comment1.target=void\ tambahItem(java.lang.String,\ int)
+comment2.params=item
+comment2.target=void\ hapusItem(java.lang.String)
+comment3.params=
+comment3.target=void\ tampilkanItem()
+numComments=4

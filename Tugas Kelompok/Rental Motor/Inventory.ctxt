@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Inventory
+comment1.params=
+comment1.target=Inventory()
+comment2.params=item\ jumlah
+comment2.target=void\ tambahItem(java.lang.String,\ int)
+comment3.params=item
+comment3.target=void\ hapusItem(java.lang.String)
+comment4.params=
+comment4.target=void\ tampilkanItem()
+numComments=5
